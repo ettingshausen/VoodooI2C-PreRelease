@@ -11,7 +11,7 @@ A PreRelease for VoodooI2C
 - Correct **Jumping Cursor**
 - Fix Multitouch Finger Count when `Transducer 0` is a **Stylus**
 - Update VoodooI2CHID Satellite
-- Update Voodoogpio Submodule(Added `ConnonLake H` & `CannonLake LP`, **Still Not Supported**)
+- Update VoodooGPIO Submodule (Added `ConnonLake H` & `CannonLake LP`, **Still Not Supported**)
 - Add `Atmel` Submodule, Add Documentation for `Synaptics` and `Atmel`
 - Update `Synaptics Satellite`
 - Add `VoodooI2CAtmelMXT satellite`
