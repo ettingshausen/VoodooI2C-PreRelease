@@ -6,7 +6,7 @@ A PreRelease for VoodooI2C
 
 ### Some versions may be buggy. If you don't have issues, please use the **Official Release** [Here](https://github.com/alexandred/VoodooI2C/releases)
 
-![PreRelease](https://img.shields.io/badge/PreRelease-2019.04.07-orange.svg)
+Download 👉![PreRelease](https://img.shields.io/badge/PreRelease-2019.04.07-orange.svg)
 
 ## Change Log
 
