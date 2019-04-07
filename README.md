@@ -11,11 +11,11 @@ Download 👉[![PreRelease](https://img.shields.io/badge/PreRelease-2019.04.07-o
 
 - Correct **Jumping Cursor**
 - Fix Multitouch Finger Count when `Transducer 0` is a **Stylus**
-- Update VoodooI2CHID Satellite
-- Update VoodooGPIO Submodule (Added `ConnonLake H` & `CannonLake LP`, **Still Not Supported**)
-- Add `Atmel` Submodule, Add Documentation for `Synaptics` and `Atmel`
+- Update `VoodooI2CHID Satellite`
+- Update `VoodooGPIO Submodule` (Added `ConnonLake H` & `CannonLake LP`, **Still Not Supported**)
+- Add `Atmel Submodule`, Add Documentation for `Synaptics` and `Atmel`
 - Update `Synaptics Satellite`
-- Add `VoodooI2CAtmelMXT satellite`
+- Add `VoodooI2CAtmelMXT Satellite`
 
 For more details, see the commits from VoodooI2C [Here](https://github.com/alexandred/VoodooI2C/commits/master)
 
