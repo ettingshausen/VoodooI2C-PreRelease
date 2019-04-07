@@ -2,4 +2,5 @@
 A PreRelease for VoodooI2C
 
 This is A PreRelease for [VoodooI2C](https://github.com/alexandred/VoodooI2C)
-Some versions may be buggy.
+
+Some versions may be buggy.If you don't have issues, please use the **Official Release** [Here](https://github.com/alexandred/VoodooI2C/releases)
