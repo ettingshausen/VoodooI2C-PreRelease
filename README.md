@@ -6,6 +6,8 @@ A PreRelease for VoodooI2C
 
 ### Some versions may be buggy. If you don't have issues, please use the **Official Release** [Here](https://github.com/alexandred/VoodooI2C/releases)
 
+[![Release](https://img.shields.io/github/release/williambj1/VoodooI2C-PreRelease.svg)]
+
 ## Change Log
 
 - Correct **Jumping Cursor**
