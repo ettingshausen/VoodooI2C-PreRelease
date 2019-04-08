@@ -19,5 +19,5 @@ Download 👉[![PreRelease](https://img.shields.io/badge/PreRelease-2019.04.08-o
 
 For more details, see the commits from VoodooI2C [Here](https://github.com/alexandred/VoodooI2C/commits/master)
 
-## Credit
+## Credits
 [VoodooI2C](https://github.com/alexandred/VoodooI2C) from [Alexandre Daoud](https://github.com/alexandred)
