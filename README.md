@@ -9,6 +9,7 @@ Download 👉[![PreRelease](https://img.shields.io/badge/PreRelease-2019.04.08-o
 
 ## Change Log
 
+- Fix multitouch input when screen is **rotated**
 - Correct **Jumping Cursor**
 - Fix Multitouch Finger Count when `Transducer 0` is a **Stylus**
 - Update `VoodooI2CHID Satellite`
